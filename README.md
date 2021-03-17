@@ -1,2 +1,2 @@
-# cloud-drafts
-Drafts for a cloud storage thing like Google Drive
+# Cloud Drafts
+Drafts for a cloud storage service like Google Drive.
